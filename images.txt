@@ -4,5 +4,6 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 python:alpine3.19
 karl998800/python_ffmpeg:latest
+homeassistant/home-assistant:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
