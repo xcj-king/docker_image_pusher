@@ -5,5 +5,6 @@ xhofe/alist:latest
 python:alpine3.19
 karl998800/python_ffmpeg:latest
 homeassistant/home-assistant:2024.5
+git@github.com:strivezh/supervised-installer.git
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
